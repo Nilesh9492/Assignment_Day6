@@ -1,0 +1,14 @@
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.exe
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.deps.json
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.json
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.dev.json
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.dll
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.pdb
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.csproj.AssemblyReference.cache
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfoInputs.cache
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfo.cs
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.csproj.CoreCompileInputs.cache
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.dll
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.pdb
+H:\C#\Assignment Day6\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.genruntimeconfig.cache
